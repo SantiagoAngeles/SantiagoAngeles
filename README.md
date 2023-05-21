@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SantiagoAngeles
-- 📚 I'm studying Finance and Business administration 
+- 👋 Hi, I’m SantiagoAngeles
+- 📚 I'm studying Finance and Business administration
 - 👀 I’m interested in data science and web development
 - 🌱 I’m currently learning Python and bash
 - 💞️ I’m looking to collaborate on ... nothing yet lol
