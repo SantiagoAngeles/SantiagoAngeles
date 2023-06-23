@@ -1,7 +1,7 @@
 - 👋 Hi, I’m SantiagoAngeles
-- 📚 I'm studying Finance and Business administration
-- 👀 I’m interested in data science and web development
-- 🌱 I’m currently learning Python and JavaScript
+- 📚 I'm studying a business administration and finance degree
+- 👀 I’m interested in mathematics, data science and web development
+- 🌱 I’m currently learning Python, JavaScript and Unix-based systems shell
 - 💞️ I’m looking to collaborate on ... nothing yet lol
 
 <!---
