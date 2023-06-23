@@ -1,5 +1,5 @@
-- 👋 Hi, I’m SantiagoAngeles
-- 📚 I'm studying a business administration and finance degree
+- 👋 Hi, I’m Santiago Angeles
+- 📚 I'm studying a Business Administration and Finance degree
 - 👀 I’m interested in mathematics, data science and web development
 - 🌱 I’m currently learning Python, JavaScript and Unix-based systems shell
 - 💞️ I’m looking to collaborate on ... nothing yet lol
