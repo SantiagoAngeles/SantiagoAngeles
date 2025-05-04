@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Santiago Angeles
-- 📚 I'm studying a Business Administration and Finance degree
-- 👀 I’m interested in mathematics, data science and web development
-- 🌱 I’m currently learning Python, JavaScript and Unix-based systems shell
-- 💞️ I’m looking to collaborate on ... nothing yet lol
+- 📚 I studied a Business Administration and Finance degree
+- 👀 I’m interested in mathematics, data science and quantitative finance
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on projects for quatitative analysis in finace
 
 <!---
 SantiagoAngeles/SantiagoAngeles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
